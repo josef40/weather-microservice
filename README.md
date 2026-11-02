@@ -1,11 +1,10 @@
 # 🌦️ Weather Tracker
 
-A weather tracking website in early development.
+A Spring Boot microservice that allows users to enter any city name and receive a weather report for the past 7 days, including human-readable condition descriptions translated from raw API codes.
 
 ## 🧬 Architecture
 * **Frontend:** SpringDoc OpenAPI
 * **Backend:** Spring Boot 4.1.2
-* **Database:** H2 Database
 
 ## 🔧 Prerequisites
 * `JDK 25+`
