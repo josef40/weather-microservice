@@ -1,13 +1,15 @@
-package com.josef.weathertracker;
+package com.josef.weathermicroservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class WeatherTrackerApplicationTests {
+class WeatherMicroserviceTests
+{
 
 	@Test
-	void contextLoads() {
+	void contextLoads()
+	{
 	}
 
 }
